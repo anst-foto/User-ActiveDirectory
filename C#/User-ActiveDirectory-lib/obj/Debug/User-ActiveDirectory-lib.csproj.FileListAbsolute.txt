@@ -1,0 +1,6 @@
+D:\Programming\User-ActiveDirectory\C#\User-ActiveDirectory-lib\bin\Debug\User-ActiveDirectory-lib.dll
+D:\Programming\User-ActiveDirectory\C#\User-ActiveDirectory-lib\bin\Debug\User-ActiveDirectory-lib.pdb
+D:\Programming\User-ActiveDirectory\C#\User-ActiveDirectory-lib\obj\Debug\User-ActiveDirectory-lib.csprojResolveAssemblyReference.cache
+D:\Programming\User-ActiveDirectory\C#\User-ActiveDirectory-lib\obj\Debug\User-ActiveDirectory-lib.csproj.CoreCompileInputs.cache
+D:\Programming\User-ActiveDirectory\C#\User-ActiveDirectory-lib\obj\Debug\User-ActiveDirectory-lib.dll
+D:\Programming\User-ActiveDirectory\C#\User-ActiveDirectory-lib\obj\Debug\User-ActiveDirectory-lib.pdb
